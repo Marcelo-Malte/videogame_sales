@@ -12,9 +12,9 @@ El objetivo del análisis es identificar patrones que determinen el éxito de un
 ## Datos Utilizados
 El dataset incluye la siguiente información:
 
-Videojuegos: Título, género, plataforma y año de lanzamiento.
-Reseñas: Calificaciones de usuarios y expertos.
-Ventas: Datos de ventas por región (América del Norte, Europa, Japón y otras).
+- Videojuegos: Título, género, plataforma y año de lanzamiento.
+- Reseñas: Calificaciones de usuarios y expertos.
+- Ventas: Datos de ventas por región (América del Norte, Europa, Japón y otras).
 
 ## Pasos del Análisis
 - Lectura de los Datos: Se lee el archivo /datasets/games.csv con la ayuda de la librería pandas.
@@ -22,7 +22,7 @@ Ventas: Datos de ventas por región (América del Norte, Europa, Japón y otras)
 - Análisis de Datos:
 Ventas por Año: Se analiza el número de juegos lanzados por año y las ventas totales por plataforma.
 Plataformas Populares: Identificación de las plataformas con mayores ventas y análisis de la evolución de las plataformas que desaparecen.
-Análisis Regional: Se estudian las preferencias de los usuarios según la región.
+- Análisis Regional: Se estudian las preferencias de los usuarios según la región.
 - Pruebas de Hipótesis: Validación de las siguientes hipótesis:
 Las calificaciones promedio de los usuarios son iguales para las plataformas Xbox One y PC.
 Las calificaciones promedio son diferentes entre los géneros de Acción y Deportes.
