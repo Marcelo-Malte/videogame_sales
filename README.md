@@ -32,5 +32,17 @@ Las calificaciones promedio son diferentes entre los géneros de Acción y Depor
 <div style="display: flex; justify-content: center; gap: 10px;"> <img src="https://github.com/user-attachments/assets/example1" alt="Gráfico de lanzamientos por año" style="width: 400px; height: auto;"> <img src="https://github.com/user-attachments/assets/example2" alt="Gráfico de plataformas" style="width: 400px; height: auto;"> </div>
 ### Ventas por Plataforma
 <div style="display: flex; justify-content: center; gap: 10px;"> <img src="https://github.com/user-attachments/assets/example3" alt="Distribución de ventas por plataforma" style="width: 400px; height: auto;"> <img src="https://github.com/user-attachments/assets/example4" alt="Plataformas populares y en declive" style="width: 400px; height: auto;"> </div>
-Pruebas de Hipótesis
-<p align="center"> <img src="https://github.com/user-attachments/assets/example5" alt="Resultados de las pruebas de hipótesis"> </p>
+
+### Analisis de ventas por region
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e4aa58a0-934d-46bf-97d8-a708294f80fa" alt="Descripción de la imagen">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85bde78e-a045-42c2-88b7-38533d0aef22" alt="Descripción de la imagen">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fa9edbd8-661b-4f74-9d11-f1f03f7828f3" alt="Descripción de la imagen">
+</p>
+
