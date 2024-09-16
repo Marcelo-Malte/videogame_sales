@@ -29,9 +29,15 @@ Las calificaciones promedio son diferentes entre los géneros de Acción y Depor
 
 ## Resultados
 ### Juegos Lanzados por Año
-<div style="display: flex; justify-content: center; gap: 10px;"> <img src="https://github.com/user-attachments/assets/example1" alt="Gráfico de lanzamientos por año" style="width: 400px; height: auto;"> <img src="https://github.com/user-attachments/assets/example2" alt="Gráfico de plataformas" style="width: 400px; height: auto;"> </div>
+<div style="display: flex; justify-content: center; gap: 10px;"> 
+  <img src="https://github.com/user-attachments/assets/f1a6f527-3b11-4c6a-b123-728679cc3805" alt="Gráfico de lanzamientos por año" style="width: 400px; height: auto;"> 
+ 
+</div>
 ### Ventas por Plataforma
-<div style="display: flex; justify-content: center; gap: 10px;"> <img src="https://github.com/user-attachments/assets/example3" alt="Distribución de ventas por plataforma" style="width: 400px; height: auto;"> <img src="https://github.com/user-attachments/assets/example4" alt="Plataformas populares y en declive" style="width: 400px; height: auto;"> </div>
+<div style="display: flex; justify-content: center; gap: 10px;"> 
+  <img src=https://github.com/user-attachments/assets/3f9428af-9098-4ae8-a1d9-aca5049fd3ee" alt="Distribución de ventas por plataforma" style="width: 400px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/c393c427-b67e-4b29-8daa-c24669eab8cb" alt="Plataformas populares y en declive" style="width: 400px; height: auto;"> 
+</div>
 
 ### Analisis de ventas por region
 <p align="center">
